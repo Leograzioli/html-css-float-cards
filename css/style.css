@@ -38,9 +38,9 @@
 
 .photo-container {
     float: left;
-    width: calc(100% / 3 - 20px);
-    margin-right: 10px;
-    margin-left: 10px;
+    width: calc(100% / 3 - 120px);
+    margin-right: 60px;
+    margin-left: 60px;
     background-color: rgb(13, 1, 46);
 }
 
@@ -53,8 +53,8 @@
 
 .photo-container h3{ 
     color: white;
-    font-size: 2rem;
-    margin-top: 15px;
+    font-size: 1.2rem;
+    margin-top: 30px;
     margin-bottom: 20px;
 }
 
