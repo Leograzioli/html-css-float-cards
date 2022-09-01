@@ -19,16 +19,20 @@
 /* header  */
 
 .main-title {
+    width: 500px;
     font-size: 2rem;
     text-align: center;
+    margin: 0 auto;
     margin-top: 40px;
-    margin-bottom: 60px;
+    margin-bottom: 80px;
     color: rgb(226, 36, 93);
+    border: 2px solid rgb(226, 36, 93);
+    border-radius: 50px;
 }
 
 /* main  */
 .container h2{
-    margin-bottom: 40px;
+    margin-bottom: 60px;
     text-align: center;
 }
 
